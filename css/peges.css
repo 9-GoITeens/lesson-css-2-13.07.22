@@ -1,0 +1,19 @@
+.text-box>.title {
+    color: pink;
+}
+
+#greycol {
+    color: gray;
+}
+
+.paragraph-red {
+    color: red
+}
+
+.paragraph-green {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
